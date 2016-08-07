@@ -1,6 +1,6 @@
-## Interface: 1 
+## Interface: 40000 
 ## Title: OLQcam 
-## Version: 1.0 
+## Version: 40000.1
 ## Notes: Nice rotation when you are AFK. You MUST have "Auto Clear AFK" enabled!
 ## Author: Mentu - Defias Brotherhood, loosly based on NightSpirits version, debugged,cleaned and added hiding interface. 
 olqcam.lua
